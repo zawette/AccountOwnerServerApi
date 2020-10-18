@@ -1,7 +1,0 @@
-2020-04-06 10:35:04.1128 INFO Returned owner with id: ad3222ea-a52d-44cd-3e4d-08d7d75c7541
-2020-04-06 10:35:39.4395 INFO Returned owner with id: ad3222ea-a52d-44cd-3e4d-08d7d75c7541
-2020-04-06 10:49:50.5693 INFO Returned owner with id: ad3222ea-a52d-44cd-3e4d-08d7d75c7541
-2020-04-06 12:25:34.9548 ERROR Something went wrong inside GetAllOwners action: Non-invocable member 'System.Collections.Generic.List<System.Dynamic.ExpandoObject>.Count' cannot be used like a method.
-2020-04-06 12:25:49.4918 ERROR Something went wrong inside GetAllOwners action: Non-invocable member 'System.Collections.Generic.List<System.Dynamic.ExpandoObject>.Count' cannot be used like a method.
-2020-04-06 12:33:22.9551 ERROR Something went wrong inside GetAllOwners action: Non-invocable member 'System.Collections.Generic.List<System.Dynamic.ExpandoObject>.Count' cannot be used like a method.
-2020-04-06 16:00:03.7025 INFO Returned 3 owners from database.
